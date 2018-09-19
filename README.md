@@ -16,5 +16,8 @@ goal to learn python
  
 #DAY2:operator and types of operator
 
-1)types of operator
-
+1)Arithmatic operator
+2)Bitwise operator
+3)Logical operator
+4)Relational operator
+5)Assignment operator
